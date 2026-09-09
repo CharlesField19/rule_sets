@@ -1,0 +1,21 @@
+# NAME: Claude Extra
+# AUTHOR: CharlesField19
+# REPO: https://github.com/CharlesField19/rule_sets
+# UPDATED: 2026-09-09
+# DOMAIN: 5
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 6
+# IP-CIDR: 0
+# TOTAL: 12
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claudemcpclient.com
+DOMAIN-SUFFIX,claudemcpcontent.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN,servd-anthropic-website.b-cdn.net
+DOMAIN,anthropic.com.cdn.cloudflare.net
+DOMAIN,anthropic.auth0.com
+DOMAIN,anthropic-com.ghost.io
+DOMAIN-SUFFIX,statsigapi.net
+DOMAIN,browser-intake-us5-datadoghq.com
+DOMAIN-KEYWORD,datadog
