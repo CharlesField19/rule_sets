@@ -1,0 +1,14 @@
+# NAME: Proxy Extra
+# AUTHOR: CharlesField19
+# REPO: https://github.com/CharlesField19/rule_sets
+# UPDATED: 2026-09-09
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 1
+# DOMAIN-SUFFIX: 4
+# IP-CIDR: 0
+# TOTAL: 5
+DOMAIN-KEYWORD,pikpak
+DOMAIN-SUFFIX,lihkg.com
+DOMAIN-SUFFIX,lihkg.hk
+DOMAIN-SUFFIX,lihkg.xyz
+DOMAIN-SUFFIX,gitlab.io
