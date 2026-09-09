@@ -16,8 +16,8 @@ DOMAIN-SUFFIX,lihkg.xyz
 # GitLab Pages
 DOMAIN-SUFFIX,gitlab.io
 # Litix streaming service
-DOMAIN-SUFFIX,litix.io,PROXY-MAIN
+DOMAIN-SUFFIX,litix.io
 # Max streaming service
-DOMAIN-SUFFIX,discomax.com,PROXY-MAIN
+DOMAIN-SUFFIX,discomax.com
 # Brightline TV streaming service
-DOMAIN-SUFFIX,brightline.tv,PROXY-MAIN
+DOMAIN-SUFFIX,brightline.tv
