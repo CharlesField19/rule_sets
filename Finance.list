@@ -1,0 +1,23 @@
+# NAME: Finance
+# AUTHOR: CharlesField19
+# REPO: https://github.com/CharlesField19/rule_sets
+# UPDATED: 2026-09-09
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 14
+# IP-CIDR: 0
+# TOTAL: 14
+DOMAIN-SUFFIX,unionpay.com
+DOMAIN-SUFFIX,95516.com
+DOMAIN-SUFFIX,chinaums.com
+DOMAIN-SUFFIX,shenzhentong.com
+DOMAIN-SUFFIX,icbc.com.cn
+DOMAIN-SUFFIX,ccb.com
+DOMAIN-SUFFIX,boc.cn
+DOMAIN-SUFFIX,abchina.com
+DOMAIN-SUFFIX,bankcomm.com
+DOMAIN-SUFFIX,cmbchina.com
+DOMAIN-SUFFIX,pingan.com.cn
+DOMAIN-SUFFIX,citicbank.com
+DOMAIN-SUFFIX,cebbank.com
+DOMAIN-SUFFIX,cib.com.cn
