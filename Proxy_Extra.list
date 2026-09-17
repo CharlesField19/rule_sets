@@ -1,12 +1,13 @@
-# NAME: Rule Extra
+# NAME: Proxy Extra
 # AUTHOR: CharlesField19
 # REPO: https://github.com/CharlesField19/rule_sets
-# UPDATED: 2026-09-09
+# UPDATED: 2026-09-17
 # DOMAIN: 0
 # DOMAIN-KEYWORD: 1
-# DOMAIN-SUFFIX: 7
+# DOMAIN-SUFFIX: 10
+# IP-ASN: 1
 # IP-CIDR: 0
-# TOTAL: 8
+# TOTAL: 12
 # PikPak
 DOMAIN-KEYWORD,pikpak
 # LIHKG
@@ -15,9 +16,11 @@ DOMAIN-SUFFIX,lihkg.hk
 DOMAIN-SUFFIX,lihkg.xyz
 # GitLab Pages
 DOMAIN-SUFFIX,gitlab.io
-# Litix streaming service
-DOMAIN-SUFFIX,litix.io
-# Max streaming service
-DOMAIN-SUFFIX,discomax.com
-# Brightline TV streaming service
-DOMAIN-SUFFIX,brightline.tv
+# Meta
+DOMAIN-SUFFIX,ig.me
+DOMAIN-SUFFIX,igcdn.com
+DOMAIN-SUFFIX,igsonar.com
+DOMAIN-SUFFIX,igtv.com
+DOMAIN-SUFFIX,threads.net
+DOMAIN-SUFFIX,threads.com
+IP-ASN,32934,no-resolve
