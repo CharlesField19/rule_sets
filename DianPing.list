@@ -1,0 +1,15 @@
+# NAME: DianPing
+# AUTHOR: CharlesField19
+# REPO: https://github.com/CharlesField19/rule_sets
+# UPDATED: 2026-09-17
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 6
+# IP-CIDR: 0
+# TOTAL: 6
+DOMAIN-SUFFIX,dianping.com
+DOMAIN-SUFFIX,dianping.cn
+DOMAIN-SUFFIX,dianping.net
+DOMAIN-SUFFIX,dpfile.com
+DOMAIN-SUFFIX,dpfile.com.cn
+DOMAIN-SUFFIX,dianpingpic.com
