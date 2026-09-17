@@ -1,0 +1,14 @@
+# NAME: SOOP
+# AUTHOR: CharlesField19
+# REPO: https://github.com/CharlesField19/rule_sets
+# UPDATED: 2026-09-17
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 5
+# IP-CIDR: 0
+# TOTAL: 5
+DOMAIN-SUFFIX,sooplive.co.kr
+DOMAIN-SUFFIX,sooplive.com
+DOMAIN-SUFFIX,sooplive.net
+DOMAIN-SUFFIX,afreecatv.com
+DOMAIN-SUFFIX,afreecatv.com.kr
