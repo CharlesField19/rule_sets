@@ -1,0 +1,29 @@
+# NAME: Direct Extra
+# AUTHOR: CharlesField19
+# REPO: https://github.com/CharlesField19/rule_sets
+# UPDATED: 2026-09-17
+# DOMAIN: 0
+# DOMAIN-KEYWORD: 0
+# DOMAIN-SUFFIX: 15
+# IP-CIDR: 0
+# TOTAL: 15
+# Shenzhen Transit
+DOMAIN-SUFFIX,shenzhentong.com
+# NetEase Buff
+DOMAIN-SUFFIX,buffcdn.com
+# Trip
+DOMAIN-SUFFIX,tripusercontent.com
+DOMAIN-SUFFIX,ctrip.com.tw
+DOMAIN-SUFFIX,ctripusercontent.com
+# Alibaba
+DOMAIN-SUFFIX,alicdn.com
+DOMAIN-SUFFIX,alipay.com
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN-SUFFIX,mybank.cn
+DOMAIN-SUFFIX,amap.com
+DOMAIN-SUFFIX,gaode.com
+# Alibaba Cloud
+DOMAIN-SUFFIX,alibabacloud.com
+DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,aliyuncs.com
+DOMAIN-SUFFIX,aliyun-inc.com
