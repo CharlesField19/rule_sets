@@ -27,3 +27,9 @@ DOMAIN-SUFFIX,alibabacloud.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,aliyuncs.com
 DOMAIN-SUFFIX,aliyun-inc.com
+# Dianping
+DOMAIN-SUFFIX,dianping.cn
+DOMAIN-SUFFIX,dianping.net
+DOMAIN-SUFFIX,dpfile.com
+DOMAIN-SUFFIX,dpfile.com.cn
+DOMAIN-SUFFIX,dianpingpic.com
