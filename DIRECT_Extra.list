@@ -33,3 +33,5 @@ DOMAIN-SUFFIX,dianping.net
 DOMAIN-SUFFIX,dpfile.com
 DOMAIN-SUFFIX,dpfile.com.cn
 DOMAIN-SUFFIX,dianpingpic.com
+# One DNS
+DOMAIN-SUFFIX,onedns.net
