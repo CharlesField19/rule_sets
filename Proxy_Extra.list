@@ -11,16 +11,5 @@
 # PikPak
 DOMAIN-KEYWORD,pikpak
 # LIHKG
-DOMAIN-SUFFIX,lihkg.com
 DOMAIN-SUFFIX,lihkg.hk
 DOMAIN-SUFFIX,lihkg.xyz
-# GitLab Pages
-DOMAIN-SUFFIX,gitlab.io
-# Meta
-DOMAIN-SUFFIX,ig.me
-DOMAIN-SUFFIX,igcdn.com
-DOMAIN-SUFFIX,igsonar.com
-DOMAIN-SUFFIX,igtv.com
-DOMAIN-SUFFIX,threads.net
-DOMAIN-SUFFIX,threads.com
-IP-ASN,32934,no-resolve
